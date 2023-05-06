@@ -1,5 +1,5 @@
 {
-  "name": "typescript-bank-oop",
+  "name": "ssg-typescript-bank-oop",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,6 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": "./index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shaoor1994/typescript-Bank-OOP.git"
